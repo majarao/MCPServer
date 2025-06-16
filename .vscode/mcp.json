@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "mcp-server-local": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "C:\\Users\\majar\\OneDrive\\Documentos\\Projetos\\MCPServer\\src\\MCPServer.Server\\MCPServer.Server.csproj"
+            ]
+        }
+    }
+}
